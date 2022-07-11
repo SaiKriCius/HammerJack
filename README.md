@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jatin6equj5
+- 👋 Hi, I’m @Jack 
 - 👀 I’m interested in coding duh lol 
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
